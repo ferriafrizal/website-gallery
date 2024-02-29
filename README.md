@@ -1,4 +1,5 @@
  WEBSITE GALLERY FOTO
+ 
  fitur website ini adalah:
 - login
 - logout
@@ -32,5 +33,5 @@ Kelebihan:
 - Memiliki foto thumbnail dan ukuran penuh
 - Memiliki antarmuka pengguna yang sederhana
 - Memiliki pencarian berdasarkan judul foto dan posisi foto di galeri
-- Dapat menampilkan berbagai informasi untuk setiap foto termasuk judul,tanggal gambar, nama foto,like,komen dan album pilihan link html untuk informasi lebih lanjut, dan kolom informasi "lain-lain". Bidang info tambahan dapat ditambahkan.
+- Dapat menampilkan berbagai informasi untuk setiap foto termasuk judul,tanggal gambar, nama foto,like,komen dan album. pilihan link winerar di atas untuk informasi lebih lanjut, dan kolom informasi "lain-lain". Bidang info tambahan dapat ditambahkan.
 - Memiliki opsi untuk menerima komentar pengguna dan melindunginya dengan kata sandi.
