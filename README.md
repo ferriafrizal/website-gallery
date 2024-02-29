@@ -21,7 +21,7 @@ tampilan regristrasi:
 tampilan data foto/galery:
 ![image](https://github.com/ferriafrizal/website-gallery/assets/157565022/0d2f2e79-367c-4d62-825f-a3230305c787)
 
-tampilan hapus foto:
+tampilan hapus foto ada di halam uplode:
 ![image](https://github.com/ferriafrizal/website-gallery/assets/157565022/5bb10f23-26e8-462b-a38e-a6e8db52b13b)
 
 tampilan tambah foto:
