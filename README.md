@@ -11,14 +11,19 @@
 barikut ini adalah tampilan fitur website gallery foto:
 tampilan login:
 ![image](https://github.com/ferriafrizal/website-gallery/assets/157565022/6fd5b7a5-8861-4be6-8195-f8152a941b9c)
+
 tampilan logout ada di menu:
 ![image](https://github.com/ferriafrizal/website-gallery/assets/157565022/86954110-4332-434b-815a-7498aed58989)
+
 tampilan regristrasi:
 ![image](https://github.com/ferriafrizal/website-gallery/assets/157565022/c9164fb5-9103-4807-877a-d7598828b742)
+
 tampilan data foto/galery:
 ![image](https://github.com/ferriafrizal/website-gallery/assets/157565022/0d2f2e79-367c-4d62-825f-a3230305c787)
+
 tampilan hapus foto:
 ![image](https://github.com/ferriafrizal/website-gallery/assets/157565022/5bb10f23-26e8-462b-a38e-a6e8db52b13b)
+
 tampilan tambah foto:
 ![image](https://github.com/ferriafrizal/website-gallery/assets/157565022/ffd3520c-4d50-40e1-a77e-2636dbaf94a9)
 
